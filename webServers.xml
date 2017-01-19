@@ -1,0 +1,70 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="387a9cdd-5aa3-4fd0-872f-f022b238ea03" name="Open Atrium" url="http://mpotter.openatrium.p2devcloud.com">
+        <fileTransfer host="openatrium.p2devcloud.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/development/mpotter/drupal" accessType="SFTP" passphrase="dfdedfdfdfd8dfdedfc6dfcfdf98dfcfdfd3dfcf" username="mpotter" keyPair="true" />
+      </webServer>
+      <webServer id="21651bce-25f3-472b-bd19-9adf271ff977" name="IPP" url="http://ipp.p2devcloud.com">
+        <fileTransfer host="ipp.p2devcloud.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/development/mpotter/drupal" accessType="SFTP" username="mpotter" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f552d787-8d73-4cd6-be52-9a80fdd7e390" name="Hughes" url="http://localhost/hughes">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3dfd57a9-a94a-4597-8d4f-1ca2c1152e54" name="OA 222" url="http://localhost/oa222">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c7815cf6-2af9-4d65-b0df-93e4f8dffd84" name="Panopoly" url="http://localhost/panopoly">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="32317a04-5a78-4c33-ab12-04480025c5ff" name="D8 Docker" url="http://www.d8.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="de250113-46c5-42f2-854b-3e1212a4c89e" name="D8 Vagrant" url="http://d8.local/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="34be9631-f953-4649-8c8a-59ecd5f25438" name="Atrium docker" url="http://www.atrium.vm/">
+        <fileTransfer mountedRoot="/Volumes/code/openatrium/html" accessType="MOUNT" />
+      </webServer>
+      <webServer id="c99bfbad-5ae6-49da-a0f2-71b16adbe7ea" name="jj.vm" url="http://www.jj.vm/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="86ae201b-d514-4e08-bfdf-ab229ae4cfa6" name="support.vm" url="http://www.support.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ef53dea1-4332-479e-bcad-5b417f26d4bd" name="D8 Panels Docker" url="http://www.d8panels.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9658db90-7065-44d3-baa9-e525f10e1e14" name="Drupal8 Docker" url="http://www.d8.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="cabc759e-7155-4eea-86f4-c875fbf35311" name="D7 Docker" url="http://www.d7.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bc48766d-fee0-4883-b0df-94360d27a8d4" name="Local Atrium" url="http://www.atrium.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4b88b08d-5648-4956-8ddd-d59e6d8c91a8" name="CUIT D8" url="http://www.cuit.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9fe7f21b-7d3a-4472-9f5d-de9ddcb4b97f" name="Atmos Local" url="http://app.atmos.vm/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="423d11a1-076d-4945-a916-d3b182de750e" name="Lightning" url="http://www.lightning.vm/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="509b8941-63d4-4394-95e3-a62a8e105824" name="Octane VM" url="http://www.octane.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ebf593c5-74c6-43ce-9682-b1adc29e103e" name="D8.1" url="http://www.d81.vm/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="45597f33-e633-42b3-a300-e5deb743ad90" name="SupportDev" url="http://www.supportdev.vm">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

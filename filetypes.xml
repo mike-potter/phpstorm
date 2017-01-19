@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="info" type="Ini" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
+      <mapping pattern=".bash-profile" type="PLAIN_TEXT" />
+      <mapping pattern="d8_test_" type="PLAIN_TEXT" />
+      <mapping pattern="behat" type="PLAIN_TEXT" />
+      <mapping ext="make" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
