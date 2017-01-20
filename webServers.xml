@@ -65,6 +65,9 @@
       <webServer id="45597f33-e633-42b3-a300-e5deb743ad90" name="SupportDev" url="http://www.supportdev.vm">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="29aff5c2-6203-4443-9b37-f0a6b855d027" name="Codenvy" url="http://node1.codenvy.io:38619">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
