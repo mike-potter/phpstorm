@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/mpotter/Projects/cuit/lightning8-distro/build/html/status.php'" />
     <option name="defaultScopeName" value="File '/Users/mpotter/Projects/cuit/lightning8-distro/build/html/status.php'" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/mpotter/Projects/cuit/lightning8-distro/build/html/status.php'" />
   </component>
 </application>
