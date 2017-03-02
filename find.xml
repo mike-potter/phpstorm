@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/mpotter/Projects/cuit/lightning8-distro/build/html/status.php'" />
-    <option name="defaultScopeName" value="File '/Users/mpotter/Projects/cuit/lightning8-distro/build/html/status.php'" />
+    <option name="customScope" value="File '.../composer.json - [mpottertest]'" />
+    <option name="defaultScopeName" value="File '.../composer.json - [mpottertest]'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/mpotter/Projects/cuit/lightning8-distro/build/html/status.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../composer.json - [mpottertest]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
