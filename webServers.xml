@@ -2,13 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="387a9cdd-5aa3-4fd0-872f-f022b238ea03" name="Open Atrium" url="http://mpotter.openatrium.p2devcloud.com">
-        <fileTransfer host="openatrium.p2devcloud.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/development/mpotter/drupal" accessType="SFTP" passphrase="dfdedfdfdfd8dfdedfc6dfcfdf98dfcfdfd3dfcf" username="mpotter" keyPair="true" />
+        <fileTransfer host="openatrium.p2devcloud.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/development/mpotter/drupal" accessType="SFTP" keyPair="true" username="mpotter" passphrase="dfdedfdfdfd8dfdedfc6dfcfdf98dfcfdfd3dfcf">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
       <webServer id="21651bce-25f3-472b-bd19-9adf271ff977" name="IPP" url="http://ipp.p2devcloud.com">
-        <fileTransfer host="ipp.p2devcloud.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/development/mpotter/drupal" accessType="SFTP" username="mpotter" keyPair="true">
+        <fileTransfer host="ipp.p2devcloud.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/development/mpotter/drupal" accessType="SFTP" keyPair="true" username="mpotter">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="f552d787-8d73-4cd6-be52-9a80fdd7e390" name="Hughes" url="http://localhost/hughes">
@@ -70,6 +73,9 @@
       </webServer>
       <webServer id="238a916e-6e24-45d0-8bd7-31d3d038beb8" name="Eclipse Che" url="http://172.17.0.1:32784">
         <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="eb28aa36-b68a-46af-8728-c1caed2079f5" name="IRS VM" url="http://www.irs.vm">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
