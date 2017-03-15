@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../composer.json - [mpottertest]'" />
     <option name="defaultScopeName" value="File '.../composer.json - [mpottertest]'" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../composer.json - [mpottertest]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
