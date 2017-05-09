@@ -8,6 +8,7 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="my_init" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".bash-profile" type="PLAIN_TEXT" />
       <mapping pattern="d8_test_" type="PLAIN_TEXT" />
