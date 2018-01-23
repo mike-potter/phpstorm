@@ -19,6 +19,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="make" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="trig" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
