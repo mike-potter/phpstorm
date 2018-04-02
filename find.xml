@@ -3,6 +3,7 @@
     <option name="customScope" value="File '.../composer.json - [mpottertest]'" />
     <option name="defaultScopeName" value="File '.../composer.json - [mpottertest]'" />
     <option name="SEARCH_SCOPE" value="File '.../composer.json - [mpottertest]'" />
+    <option name="FILE_MASK" value="*.make" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +17,8 @@
       <mask>*.php</mask>
       <mask>*.test</mask>
       <mask>*.twig</mask>
-      <mask>*.make</mask>
       <mask>*.drush.inc</mask>
+      <mask>*.make</mask>
     </recentFileMasks>
   </component>
 </application>
