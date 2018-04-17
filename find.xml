@@ -3,6 +3,7 @@
     <option name="customScope" value="File '.../composer.json - [mpottertest]'" />
     <option name="defaultScopeName" value="File '.../composer.json - [mpottertest]'" />
     <option name="SEARCH_SCOPE" value="File '.../composer.json - [mpottertest]'" />
+    <option name="FILE_MASK" value="core.entity_form_display.node.*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +19,7 @@
       <mask>*.twig</mask>
       <mask>*.drush.inc</mask>
       <mask>*.make</mask>
+      <mask>core.entity_form_display.node.*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
