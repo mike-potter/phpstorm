@@ -77,6 +77,9 @@
       <webServer id="eb28aa36-b68a-46af-8728-c1caed2079f5" name="IRS VM" url="http://www.irs.vm">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="027ec28a-20ef-4b03-94fc-de8c3a6f1b96" name="niaid" url="http://www.niaid.vm">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
