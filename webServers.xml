@@ -80,6 +80,9 @@
       <webServer id="027ec28a-20ef-4b03-94fc-de8c3a6f1b96" name="niaid" url="http://www.niaid.vm">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9e4acad2-0732-41e1-9436-105e8eaad27f" name="nhlbi.docksal" url="http://nhlbi.docksal">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
